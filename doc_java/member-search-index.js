@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Calculator","l":"add(int, int)"},{"p":"<Unnamed>","c":"Calculator","l":"Calculator()"},{"p":"<Unnamed>","c":"Calculator","l":"sub(int, int)"}]
